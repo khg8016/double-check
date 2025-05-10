@@ -60,10 +60,7 @@
   "topic": "이재명 선거법 위반 사건 파기환송 재판 연기", // 주제
   "date": "2025-05-01", // 날짜
   "media": "MBC", // 언론사
-  "articleTitle": "MBC, 이재명 대표 파기환송심 \\\"사법부 중립성\\\" 문제 제기", // 기사 제목
-  "articleLink": "https://example.com/mbc/lee-jaemyung-trial-01", // 기사 원문 링크
   "videoLink": "https://youtu.be/7L-pf8A1tCU?si=FUuJW4TwiJ5nfYCq", // 유튜브 영상 링크
-  "youtubeVideoId": "7L-pf8A1tCU", // 추출된 유튜브 비디오 ID
   "aiSummary": "MBC는 대법원의 파기환송 결정에 대해...", // AI 요약
   "topicFactCheck": "🔍 팩트체크: 이재명 파기환송 결정의 의미와..." // 주제 공통 팩트체크
 }
